@@ -9,7 +9,7 @@ def circle_area(diameter = 3):
 
     # YOUR CODE HERE
     radius = diameter/2
-    area = pi*radius**2
+    area = pi*radius*radius
 
     
     print(area)
