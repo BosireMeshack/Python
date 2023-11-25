@@ -20,12 +20,13 @@ min_v = minimum_value(ls)
 # print(min_v)
 #Prints the index of the maximum value/integer in a list
 def maximum_index(ls:list[int]) -> int:
-    max_v = ls[0]
-    max_i=0
-    for x in range(1,len(ls)):
-        if max_v < ls[x]:
-            max_v = ls[x]
-            max_i = x
+    # max_v = ls[0]
+    # max_i=0
+    # for x in range(1,len(ls)):
+    #     if max_v < ls[x]:
+    #         max_v = ls[x]
+    #         max_i = x
+    max_i = ls.index(max(ls))
     return max_i
 max_i = maximum_index(ls)
 # print(max_i)
