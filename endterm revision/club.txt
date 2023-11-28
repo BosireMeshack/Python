@@ -1,0 +1,9 @@
+2
+Golden
+Team:Grosics,Buzanszky,Lorant,Lantos,Bozsik,Zakarias,Budai,
+Kocsis,Hidegkuti,Puskas,Czibor
+Mighty Magyars:Buzanszky,Lantos,Zakarias,Hidegkuti
+Marvellous
+Magyars:Grosics,Buzanszky,Bozsik,Hidegkuti,Puskas
+Magnificent Magyars:Lorant,Budai,Kocsis,Hidegkuti,Puskas
+Magical Magyars:Buzanszky,Lantos,Hidegkuti,Puskas

@@ -4,7 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93c2abc7-d1cf-42b6-95aa-cb084de36745" name="Changes" comment="" />
+    <list default="true" id="93c2abc7-d1cf-42b6-95aa-cb084de36745" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../endterm revision/attractions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../endterm revision/attractions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../endterm revision/club.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../endterm revision/cmd_arg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../endterm revision/delete_even_digits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../endterm revision/dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../endterm revision/eof.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../endterm revision/factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../endterm revision/festival_bands.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../endterm revision/fibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../endterm revision/fibonacci_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../endterm revision/lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../endterm revision/monkey.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../endterm revision/occurence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../endterm revision/sets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../endterm revision/setsodd_even.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../endterm revision/squaresgetter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../endterm revision/sumofnegatedsquares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../endterm revision/sumofsquares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../endterm revision/untilempty.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../g2lab9/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../g2lab9/ex1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,13 +50,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "pydoc"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;pydoc&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.rollercoaster">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="g2lab10" />
