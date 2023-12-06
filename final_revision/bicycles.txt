@@ -1,0 +1,5 @@
+BMW:Mountain:5:25000
+Csapel:Road:4:16000
+Sprint:Mountain:3:9000
+Cross:Touring:5:15000
+Neuzer:Road:2:10000

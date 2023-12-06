@@ -13,9 +13,12 @@ for line in sys.stdin:
         else:
             num_of_attractions[city] = 0
 
-sorted_attract = dict(sorted(num_of_attractions.items(), key=lambda item:item[1]))
+# sorted_attract = dict(sorted(num_of_attractions.items(), key=lambda item:item[1]))
 
-for key, value in sorted_attract.items():
+for key, value in sorted(num_of_attractions.items(), key = lambda x: x[0]):
     print(f"{key}:{value}")
+
+# for key, value in sorted_attract.items():
+#     print(f"{key}:{value}")
 
 
